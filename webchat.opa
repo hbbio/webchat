@@ -1,4 +1,4 @@
-import stdlib.themes.bootstrap
+import stdlib.themes.bootstrap.v1_4_0
 
 type message = { string author, string text }
 
